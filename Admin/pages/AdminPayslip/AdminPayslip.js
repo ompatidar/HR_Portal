@@ -10,7 +10,7 @@ const AdminPayslip = () => {
     return (
         <Box className="payslip-print" sx={{ padding: 3 }}>
             <Box className="header-print" sx={{ textAlign: "center", marginBottom: 3 }}>
-                <Typography variant="h4">Payslip</Typography>
+                <Typography variant="h4">Payslip om</Typography>
                 <Typography variant="h6">Payslip for the month of August 2024</Typography>
             </Box>
 
