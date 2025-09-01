@@ -112,7 +112,7 @@ const AdminPayslip = () => {
       <Header
         siteName={" Employee Payslip"}
         profileImage={profileImage}
-        showLinks={["emppayslip"]}
+        showLinks={["emppay-slip"]}
       />
       <div className="payslip-table-container">
         <CommonHeader
